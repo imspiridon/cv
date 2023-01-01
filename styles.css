@@ -1,0 +1,34 @@
+body {
+    font-family: calibri;
+}
+
+.leftpadding {
+    padding-left: 15px;
+}
+
+td.datecolumn {
+    text-align: right;
+    vertical-align: top;
+}
+
+tr.underline {
+    border-bottom: 0.5px solid rgb(0, 0, 0);
+}
+
+table {
+    width: 75%;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: top;
+}
+
+th.skillscol {
+    vertical-align: top;
+    text-align: left;
+    width: 25%;
+}
+
+tr.trheading {
+    height: 15px;
+}
