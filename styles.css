@@ -29,6 +29,11 @@ th.skillscol {
     width: 25%;
 }
 
-tr.trheading {
-    height: 15px;
+h2 {
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+ul {
+    margin: 0px;
 }
